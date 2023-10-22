@@ -1,0 +1,22 @@
+{
+  "name": "hello-world",
+  "version": "0.0.1",
+  "description": "A npm package example that does nothing but show 'Hello, world!' in the console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heynats/npm-package-example.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Stanley Yeh",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/heynats/npm-package-example/issues"
+  },
+  "homepage": "https://github.com/heynats/npm-package-example#readme"
+}
